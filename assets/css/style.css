@@ -1,0 +1,37 @@
+#header {
+  min-height: 570px;
+  background-image: url(../../images/promo-bg.jpg); }
+  #header h5 {
+    color: white;
+    font-size: 30px;
+    margin-top: 100px;
+    margin-bottom: 30px; }
+  #header span {
+    color: white;
+    font-size: 15px; }
+  #header i {
+    color: white;
+    text-align: center;
+    font-size: 25px; }
+  #header button {
+    border-radius: 100px;
+    background: red;
+    width: 45px;
+    height: 45px;
+    border: none;
+    margin-top: 130px; }
+  #header .slider {
+    min-height: 370px;
+    margin-top: 50px;
+    overflow: hidden; }
+  #header .slideImg {
+    height: 123px; }
+    #header .slideImg img {
+      margin-top: 10px;
+      height: inherit;
+      width: 100%;
+      border: 2px solid red; }
+    #header .slideImg img:hover {
+      border: 2px solid white; }
+
+/*# sourceMappingURL=style.css.map */
